@@ -1,16 +1,25 @@
-## Hi there 👋
+### Olá! Eu sou o Lucas de Carvalho 👋
 
-<!--
-**Lucascla18/Lucascla18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação (6º período) e desenvolvedor focado em criar soluções **Mobile** e **Web** modernas. Tenho paixão por tirar ideias do papel, seja criando apps híbridos ou protótipos de robótica com IoT.
 
-Here are some ideas to get you started:
+🔭 **No momento, estou trabalhando em:**
+- Aprimoramento de aplicações mobile com **Ionic 7** e **Firebase**.
+- Projetos de automação residencial e robótica com **Arduino/C++**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Minhas Ferramentas & Tecnologias:**
+- **Mobile/Web:** Ionic, React Native, Angular, HTML5, CSS3, Bootstrap.
+- **Backend/Dados:** Firebase (Firestore/Auth), SQL.
+- **Linguagens:** TypeScript, JavaScript, C++, Python, Java.
+- **Conceitos:** MVC, POO, APIs REST, Scrum, UI/UX.
+
+🚀 **Projetos em Destaque:**
+- **App de Telemedicina:** Aplicativo híbrido com agendamento e chat em tempo real (Ionic + Firebase).
+- **Veículo Autônomo IoT:** Robô com navegação via ultrassom e controle Bluetooth (Arduino + C++).
+- **E-commerce Petshop:** Interface front-end responsiva focada em UX.
+
+📫 **Vamos conversar?**
+- [LinkedIn](https://www.linkedin.com/in/lucas-carvalho-lopes)
+- [E-mail](mailto:lucascla18@gmail.com)
+
+---
+*Open to work! Buscando oportunidades de estágio em Desenvolvimento.*
