@@ -1,52 +1,54 @@
 # Lucas de Carvalho Lopes
-[English Version](#-junior-software-engineer) | [Versão em Português](#-desenvolvedor-de-software-júnior)
+[English Version](#-front-end--ai-engineering-intern) | [Versão em Português](#-estagiário-de-engenharia-de-ia--front-end)
 
 ---
 
-## 🇺🇸 Junior Software Engineer
-Computer Science student (6th semester) and developer focused on building modern **Mobile** and **Web** solutions. I am passionate about turning ideas into scalable reality, whether through hybrid apps or IoT-driven robotics.
+## 🇺🇸 Front-end & AI Engineering Intern
+Computer Science student (6th semester) and software developer focused on building modern **Mobile** and **Web** solutions. Currently gaining industry experience in **AI Engineering and Front-end development**, transforming intelligent concepts into production-ready applications.
 
  Currently working on:
- Scaling cross-platform applications with **Ionic 7** and **Firebase**.
+* Developing AI-driven user interfaces and web components at **FlyRank AI**.
+* Building cross-platform mobile applications integrated with **Angular** and **Ionic 7**.
 * Advanced IoT and automation systems with **Arduino & C++**.
 
  Tools & Technologies:
- **Mobile/Web:** Ionic 7, React Native, Angular, TypeScript, HTML5, CSS3.
- **Backend/Data:** Firebase (Firestore/Auth), SQL, PostgreSQL.
- **Languages:** TypeScript, JavaScript, Python, Java, C++.
- **Concepts:** MVC, OOP, REST APIs, Scrum, UI/UX.
+* **Mobile/Web:** Angular, Ionic 7, React Native, TypeScript, HTML5, CSS3, Bootstrap.
+* **Backend/Data:** Firebase (Firestore/Auth), SQL, PostgreSQL.
+* **Languages:** TypeScript, JavaScript, Java, Python, C++.
+* **Concepts:** AI Integration, MVC, OOP, REST APIs, Scrum, UI/UX.
 
  Featured Projects:
-* **Telemedicine App:** Full hybrid application featuring real-time chat and appointment scheduling (Ionic + Firebase).
+* **MedConecta (Telemedicine App):** Full-stack hybrid application built with **Ionic 7 + Angular** and Firebase, featuring secure auth and real-time medical scheduling.
 * **Autonomous IoT Vehicle:** Robot with ultrasonic navigation and Bluetooth control (Arduino + C++).
-* **Petshop E-commerce:** Responsive front-end interface focused on User Experience (UX).
+* **IoT Gas Leak Security System:** Smart home automation system with gas sensors and automated alert logic.
 
  Let's Connect:
- [LinkedIn](https://www.linkedin.com/in/lucas-lopes-dev/)
- Email: lucascla18@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/lucas-lopes-dev/)
+* Email: lucascla18@gmail.com
 
 ---
 
-## 🇧🇷 Desenvolvedor de Software Júnior
-Estudante de Ciência da Computação (6º período) e desenvolvedor focado em criar soluções **Mobile** e **Web** modernas. Tenho paixão por tirar ideias do papel, seja criando apps híbridos ou protótipos de robótica com IoT.
+## 🇧🇷 Estagiário de Engenharia de IA & Front-end
+Estudante de Ciência da Computação (6º período) e desenvolvedor de software focado em criar soluções **Mobile** e **Web** modernas. Atualmente, ganhando experiência de mercado com **Engenharia de IA e desenvolvimento Front-end**, transformando conceitos inteligentes em aplicações prontas para produção.
 
  No momento, estou trabalhando em:
- Aprimoramento de aplicações mobile com **Ionic 7** e **Firebase**.
- Projetos de automação residencial e robótica com **Arduino/C++**.
+* Desenvolvimento de interfaces e componentes web focados em IA na **FlyRank AI**.
+* Aprimoramento de aplicações mobile multiplataforma utilizando **Angular** e **Ionic 7**.
+* Projetos de automação residencial e robótica com **Arduino/C++**.
 
-** Minhas Ferramentas & Tecnologias:**
- **Mobile/Web:** Ionic, React Native, Angular, HTML5, CSS3, Bootstrap.
- **Backend/Dados:** Firebase (Firestore/Auth), SQL, PostgreSQL.
- **Linguagens:** TypeScript, JavaScript, C++, Python, Java.
- **Conceitos:** MVC, POO, APIs REST, Scrum, UI/UX.
+ Minhas Ferramentas & Tecnologias:
+* **Mobile/Web:** Angular, Ionic 7, React Native, TypeScript, HTML5, CSS3, Bootstrap.
+* **Backend/Dados:** Firebase (Firestore/Auth), SQL, PostgreSQL.
+* **Linguagens:** TypeScript, JavaScript, Java, Python, C++.
+* **Conceitos:** Integração com IA, MVC, POO, APIs REST, Scrum, UI/UX.
 
  Projetos em Destaque:
-* **App de Telemedicina:** Aplicativo híbrido com agendamento e chat em tempo real (Ionic + Firebase).
+* **MedConecta (App de Telemedicina):** Aplicativo híbrido full-stack construído com **Ionic 7 + Angular** e Firebase, com autenticação segura e agendamento em tempo real.
 * **Veículo Autônomo IoT:** Robô com navegação via ultrassom e controle Bluetooth (Arduino + C++).
-* **E-commerce Petshop:** Interface front-end responsiva focada em UX.
+* **Sistema de Segurança IoT:** Automação residencial inteligente com sensores de gás e lógica de alertas.
 
  Vamos conversar?
 * [LinkedIn](https://www.linkedin.com/in/lucas-lopes-dev/)
 * E-mail: lucascla18@gmail.com
 
-**Status:** 🟢 Open to Work | Buscando oportunidades de Júnior ou Estágio em Desenvolvimento.
+**Status:** 🟢 Open to Connect | Focado em evolução profissional e aberto a conexões no mercado de tecnologia como Desenvolvedor Júnior.
