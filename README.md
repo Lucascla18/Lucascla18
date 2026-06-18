@@ -16,7 +16,7 @@ Computer Science student (6th semester) and developer focused on building modern
  **Languages:** TypeScript, JavaScript, Python, Java, C++.
  **Concepts:** MVC, OOP, REST APIs, Scrum, UI/UX.
 
- Featured Projects:**
+ Featured Projects:
 * **Telemedicine App:** Full hybrid application featuring real-time chat and appointment scheduling (Ionic + Firebase).
 * **Autonomous IoT Vehicle:** Robot with ultrasonic navigation and Bluetooth control (Arduino + C++).
 * **Petshop E-commerce:** Responsive front-end interface focused on User Experience (UX).
@@ -34,7 +34,7 @@ Estudante de Ciência da Computação (6º período) e desenvolvedor focado em c
  Aprimoramento de aplicações mobile com **Ionic 7** e **Firebase**.
  Projetos de automação residencial e robótica com **Arduino/C++**.
 
- Minhas Ferramentas & Tecnologias:**
+** Minhas Ferramentas & Tecnologias:**
  **Mobile/Web:** Ionic, React Native, Angular, HTML5, CSS3, Bootstrap.
  **Backend/Dados:** Firebase (Firestore/Auth), SQL, PostgreSQL.
  **Linguagens:** TypeScript, JavaScript, C++, Python, Java.
@@ -45,7 +45,7 @@ Estudante de Ciência da Computação (6º período) e desenvolvedor focado em c
 * **Veículo Autônomo IoT:** Robô com navegação via ultrassom e controle Bluetooth (Arduino + C++).
 * **E-commerce Petshop:** Interface front-end responsiva focada em UX.
 
-** Vamos conversar?**
+ Vamos conversar?
 * [LinkedIn](https://www.linkedin.com/in/lucas-lopes-dev/)
 * E-mail: lucascla18@gmail.com
 
