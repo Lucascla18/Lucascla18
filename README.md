@@ -17,9 +17,9 @@ Computer Science student (6th semester) and developer focused on building modern
  **Concepts:** MVC, OOP, REST APIs, Scrum, UI/UX.
 
  Featured Projects:**
- **Telemedicine App:** Full hybrid application featuring real-time chat and appointment scheduling (Ionic + Firebase).
- **Autonomous IoT Vehicle:** Robot with ultrasonic navigation and Bluetooth control (Arduino + C++).
- **Petshop E-commerce:** Responsive front-end interface focused on User Experience (UX).
+* **Telemedicine App:** Full hybrid application featuring real-time chat and appointment scheduling (Ionic + Firebase).
+* **Autonomous IoT Vehicle:** Robot with ultrasonic navigation and Bluetooth control (Arduino + C++).
+* **Petshop E-commerce:** Responsive front-end interface focused on User Experience (UX).
 
  Let's Connect:
  [LinkedIn](https://www.linkedin.com/in/lucas-lopes-dev/)
@@ -40,7 +40,7 @@ Estudante de Ciência da Computação (6º período) e desenvolvedor focado em c
  **Linguagens:** TypeScript, JavaScript, C++, Python, Java.
  **Conceitos:** MVC, POO, APIs REST, Scrum, UI/UX.
 
-** Projetos em Destaque:**
+ Projetos em Destaque:
 * **App de Telemedicina:** Aplicativo híbrido com agendamento e chat em tempo real (Ionic + Firebase).
 * **Veículo Autônomo IoT:** Robô com navegação via ultrassom e controle Bluetooth (Arduino + C++).
 * **E-commerce Petshop:** Interface front-end responsiva focada em UX.
